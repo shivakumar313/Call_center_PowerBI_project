@@ -28,16 +28,6 @@ A brief description of what this project does and who it's for
 
 
 
-### [1] Total Number of Customers = 129880
-
-
-### [2] Average Ratings
-
- 
-### [3] Average Delay 
-  
-
-
- ### [4] Some other insights
+### [1] Total Number Calls
  
 
